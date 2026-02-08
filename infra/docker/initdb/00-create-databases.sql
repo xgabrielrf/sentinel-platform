@@ -1,0 +1,6 @@
+CREATE DATABASE identity_db;
+CREATE DATABASE quote_db;
+CREATE DATABASE risk_db;
+CREATE DATABASE policy_db;
+CREATE DATABASE billing_db;
+CREATE DATABASE audit_db;
